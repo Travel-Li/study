@@ -10,4 +10,5 @@ public class DesignPatternsApplication {
         SpringApplication.run(DesignPatternsApplication.class, args);
     }
 
+
 }
